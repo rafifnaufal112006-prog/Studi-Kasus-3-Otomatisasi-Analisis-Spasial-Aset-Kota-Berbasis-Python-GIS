@@ -1,1 +1,2 @@
-# Studi-Kasus-3-Otomatisasi-Analisis-Spasial-Aset-Kota-Berbasis-Python-GIS
+# Studi Kasus 3 Otomatisasi Analisis Spasial Aset Kota Berbasis Python-GIS
+Program ini merupakan skrip pemrosesan spasial berbasis Python yang memadukan analisis lokasi (koordinat latitude/longitude) dengan aturan manajemen aset. Program ini secara otomatis menghitung jarak spasial aset infrastruktur terhadap zona risiko bencana dan mengelompokkan prioritas pemeliharaan secara data-driven, mendemonstrasikan peran lulusan IT sebagai GIS Developer yang membangun sistem otomatisasi analisis geografis.
